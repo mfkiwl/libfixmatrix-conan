@@ -1,0 +1,3 @@
+[submodule "libfixmatrix"]
+	path = libfixmatrix
+	url = git@github.com:sunsided/libfixmatrix.git
